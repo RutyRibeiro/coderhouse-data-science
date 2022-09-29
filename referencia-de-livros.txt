@@ -1,0 +1,2 @@
+- Python para análise de dados
+- Python fluente
