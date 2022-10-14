@@ -1,2 +1,2 @@
 # coderhouse-data-science
- course lessons 
+ Data science course lessons 
